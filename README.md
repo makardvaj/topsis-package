@@ -1,4 +1,4 @@
-# TOPSIS-Vaibhav-102316037
+# Topsis-Vaibhav-102316037
 
 A Python package to implement the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS).
 
@@ -25,3 +25,4 @@ topsis data.csv "1,1,1,1,1" "+,+,-,+,+" result.csv
 
 ### Recieved E-Mail
 <img width="1920" height="1080" alt="Received_Email" src="https://github.com/user-attachments/assets/3a2d51a3-ca86-43e8-93fb-d3f8dfe83d61" />
+
